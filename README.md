@@ -2,7 +2,9 @@
   <a href="https://svgl.app">
     <img src="static/images/screenshot_dark.png">
   </a>
-<p></p>
+  <p>
+  
+  </p>
 </div>
 
 <div align="center">
